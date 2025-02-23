@@ -60,26 +60,26 @@ python main.py
 
 ## **📸 Screenshots** 
 - **User Autentication Window**
- ![Useauthentication](https://github.com/user-attachments/assets/cef3cbcd-5958-440a-90b3-493f747a86f1)
+- ![Useauthentication](https://github.com/user-attachments/assets/cef3cbcd-5958-440a-90b3-493f747a86f1)
 
 - **Encryption(Main UI)**
- ![encryption](https://github.com/user-attachments/assets/354c6b08-1625-4cf9-9d0a-14e266b8f66b)
+- ![encryption](https://github.com/user-attachments/assets/354c6b08-1625-4cf9-9d0a-14e266b8f66b)
 
 - **Encryption Prompt(Main UI)**
- ![image encryption successful promte](https://github.com/user-attachments/assets/b616fd1f-6bf3-4f48-b6a6-a4c154abd640)
+- ![image encryption successful promte](https://github.com/user-attachments/assets/b616fd1f-6bf3-4f48-b6a6-a4c154abd640)
 
 - **Decryption(Main UI)**
- ![decryption](https://github.com/user-attachments/assets/49ae6a85-789e-420b-acee-9709645dbd6d)
+- ![decryption](https://github.com/user-attachments/assets/49ae6a85-789e-420b-acee-9709645dbd6d)
 
 - **Decryption Prompt(Main UI)**
- ![decrypted message](https://github.com/user-attachments/assets/3ff00ddf-5623-46fa-8dbd-f1922aa31377)
+- ![decrypted message](https://github.com/user-attachments/assets/3ff00ddf-5623-46fa-8dbd-f1922aa31377)
 
 - **Activity Log(Main UI)**
- ![activity log](https://github.com/user-attachments/assets/29b32e66-1f5e-4863-88a6-0c920d6bffe6)
+- ![activity log](https://github.com/user-attachments/assets/29b32e66-1f5e-4863-88a6-0c920d6bffe6)
 
 - **Settings(Main UI)**
- ![setting1](https://github.com/user-attachments/assets/04cb14af-e583-4706-a7f8-3313ee1736db)
- ![setting2](https://github.com/user-attachments/assets/dfc68772-9bad-4965-b5cb-68a05063bf60)
+- ![setting1](https://github.com/user-attachments/assets/04cb14af-e583-4706-a7f8-3313ee1736db)
+- ![setting2](https://github.com/user-attachments/assets/dfc68772-9bad-4965-b5cb-68a05063bf60)
 
 ## **📝 Contributing**
 Feel free to fork the repository and submit a pull request for enhancements.
