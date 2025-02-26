@@ -90,7 +90,7 @@ python main.py
 - ![decryption-image](https://github.com/user-attachments/assets/9ed8d79f-3801-42a8-b7c7-96107bbae07c)
 
 - **Decryption Audio(Main UI)**
-- ![encryption-audio](https://github.com/user-attachments/assets/63b65791-677b-40cb-81ec-22e3969dc9dd)
+- ![decryption-audio](https://github.com/user-attachments/assets/94ff8748-0e25-477e-bda9-3eb75a4f4a29)
 
 - **Decryption Video(Main UI)**
 - ![decryption-video](https://github.com/user-attachments/assets/6927d424-7d0e-4cf0-9a5c-ffe3b37c5bef)
