@@ -77,7 +77,7 @@ python main.py
 - **Encryption Video(Main UI)**
 - ![encryption-video](https://github.com/user-attachments/assets/26d03dbc-7fa3-4def-ac23-e01564fc771d)
 
-- **Encryption Audio Success Prompt(Main UI)**
+- **Encryption Video Success Prompt(Main UI)**
 - ![encryption-video-successful-prompt](https://github.com/user-attachments/assets/55140e99-172f-4787-8be7-c647faac2df2)
 
 - **Original and Encrypted File Comparasion(Main UI)**
