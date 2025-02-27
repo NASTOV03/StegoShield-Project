@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### **⚡ Running the Application**
 #### **🔹 Using the Source Code (Python)**
 ```bash
-python main.py
+python ui.py
 ```
 
 #### **🔹 Using the Compiled .exe File** *(Recommended for End Users)*
